@@ -1,5 +1,5 @@
 #!/bin/bash
-#一行格式
+#一行格式a
 for loop in 1 2 3 4 5;do echo "value is $loop";done;
 
 for str in 'this is a string'
